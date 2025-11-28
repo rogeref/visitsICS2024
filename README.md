@@ -2,4 +2,4 @@
 
 Plots describe how the total number of visits and patients are distributed based on patient characteristics and the socioeconomic deprivation of the area (MEDEA).  
 
-* [Treemaps](https://rogeref.github.io/visitsICS2024)
+* [Treemaps](https://rogeref.github.io/visitsICS2024/Treemap_visits24.html)
